@@ -10,7 +10,9 @@ I'm a student with a fervor for unraveling the intricacies of data and building 
 
 ### Projects
 
-Explore a collection of projects that reflect my passion for innovation and problem-solving.
+[CUDA KNN](https://github.com/Fili-ai/knn_cuda): \
+This is the final project of the course "High Performance Graph and Data Analytics" (HPDGA) attended at Politecnico of Milan. The goal is to develop a K-Nearest Neighbors (KNN) algorithm that runs on Nvidia’s GPU using C, C++ and Cuda without any external library.
+
 
 ## Let's Connect
 
